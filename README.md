@@ -1,4 +1,4 @@
-# Computer Use Agent Generative UI
+# Computer Use Agent Generative UI 
 
 A Generative UI web app for interacting with Computer Use Agents (CUA) via the `@langchain/langgraph-cua` prebuilt package.
 
